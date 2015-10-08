@@ -16,5 +16,10 @@
     3. **Dictator and Lieutenants  Workflow**  
 * Data Assurance
 * Staging Area
-* GitHub
+  * Staging  
+   ![](https://git-scm.com/images/about/index1@2x.png "Staging")
+  * Normal  
+   ![](https://git-scm.com/images/about/index2@2x.png "Normal")
+* Community
+   ![](https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png "Github")
 
